@@ -17,10 +17,4 @@ This repo documents my Week 1 lab setup for Cybersecurity.
 4. Set VM Adapter to NAT Network > NatNetwork
 5. Verified with ip a and ping
 6. Installed Wireshark: sudo apt install wireshark -y
-7. Exported VM as .ova backup to prevent data loss
-
-4.Topology
-Windows 11 Host -> VirtualBox NATNetwork 10.0.0.0/24 -> Kali VM (10.0.0.5)
-
-5.Screenshots
-Screenshots of network config and Wireshark will be added in /screenshots as links<img width="1920" height="1080" alt="screenshort of my readme" src="https://github.com/user-attachments/assets/a8b79876-6f28-4412-8089-af56e6b59d8b" />
+7. Exported VM as .ova backup to prevent data
