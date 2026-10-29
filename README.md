@@ -23,6 +23,4 @@ This repo documents my Week 1 lab setup for Cybersecurity.
 Windows 11 Host -> VirtualBox NATNetwork 10.0.0.0/24 -> Kali VM (10.0.0.5)
 
 5.Screenshots
-Screenshots of network config and Wireshark will be added in /screenshots
-5.Next
-Add more VMs and perform packet analysis.
+Screenshots of network config and Wireshark will be added in /screenshots as links<img width="1920" height="1080" alt="screenshort of my readme" src="https://github.com/user-attachments/assets/a8b79876-6f28-4412-8089-af56e6b59d8b" />
